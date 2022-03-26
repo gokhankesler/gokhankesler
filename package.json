@@ -1,0 +1,22 @@
+{
+  "name": "github_profile",
+  "version": "1.0.0",
+  "description": "<!-- **gokhankesler/gokhankesler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokhankesler/gokhankesler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokhankesler/gokhankesler/issues"
+  },
+  "homepage": "https://github.com/gokhankesler/gokhankesler#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
