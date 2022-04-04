@@ -69,4 +69,4 @@
 <hr>
 <h2 style="text-align:center">Statistics</h2>
 
-[![Gokhan Kesler's github activity graph](https://activity-graph.herokuapp.com/graph?username=gokhankesler&custom_title=gokhankesler's%20contributio&theme=github)](https://github.com/gokhankesler/github-readme-activity-graph)
+[![Gokhan Kesler's github activity graph](https://activity-graph.herokuapp.com/graph?username=gokhankesler&custom_title=gokhankesler's%20Contribution&theme=github)](https://www.github.com/gokhankesler/)
